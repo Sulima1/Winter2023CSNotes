@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d080f885701a578",
+            "id": "3fd9478315668c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/CP322 Final Review Short Notes.md",
+                "file": "Operating Systems/OS Final CH 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "628735fb98df3b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/OS Final CH 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13a5294fb54f420b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database I/DB Final Notes Week 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/CP322 Final Review Short Notes.md",
+                "file": "Database I/DB Final Notes Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/CP322 Final Review Short Notes.md",
+                "file": "Database I/DB Final Notes Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/CP322 Final Review Short Notes.md"
+                "file": "Database I/DB Final Notes Week 4.md"
               }
             }
           }
@@ -146,20 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d080f885701a578",
+  "active": "4923ad988c21d9b1",
   "lastOpenFiles": [
+    "Operating Systems/OS Final CH 9.md",
+    "Database I/DB Final Notes Week 4.md",
+    "Operating Systems/OS Final CH 8.md",
+    "Operating Systems/OS Final - CH 7.md",
+    "Operating Systems/OS Final - CH 6.md",
+    "Operating Systems/OS Final CH 10.md",
+    "Untitled",
+    "Images for notes/Pasted image 20230418165737.png",
+    "Images for notes/Pasted image 20230417192943.png",
+    "Images for notes/Pasted image 20230417182103.png",
+    "Images for notes/Pasted image 20230417170550.png",
+    "Images for notes/Pasted image 20230416223449.png",
+    "Images for notes/Pasted image 20230416152321.png",
+    "Machine Learning/CP322 Final Review Short Notes.md",
     "Images for notes/Pasted image 20230414194709.png",
     "Images for notes/Pasted image 20230414161703.png",
     "Images for notes/Pasted image 20230414161314.png",
     "Images for notes/Pasted image 20230414161020.png",
-    "Images for notes/Pasted image 20230414160137.png",
-    "Images for notes/Pasted image 20230414153236.png",
-    "Images for notes/Pasted image 20230414153013.png",
-    "Images for notes/Pasted image 20230414145534.png",
-    "Images for notes/Pasted image 20230414144447.png",
-    "Images for notes/Pasted image 20230414140121.png",
-    "Images for notes/Pasted image 20230413202329.png",
-    "Machine Learning/CP322 Final Review Short Notes.md",
     "Machine Learning/CP322 Midterm Exam review.md",
     "Operating Systems/Class 8 - Indirect Communication, Pipes.md",
     "Database I/Class 4 - ER Model Relation Schema.md",

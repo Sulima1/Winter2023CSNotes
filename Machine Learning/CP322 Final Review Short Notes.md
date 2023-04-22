@@ -65,6 +65,7 @@
 		- Prevents interdependence between neurons
 
 - Softmax activation function is often used in deep learning to normalize the output of a neural network
+	- Scales numbers/logits into probabilities
 
 - Cross entropy is used in deep learning to measure the difference between the predicted output and actual output
 
@@ -83,7 +84,7 @@
 
 
 - A convolution layer is made up of many convolution filters
-	- Each filter is a temple of whether or not a particular feature is present in an image
+	- Each filter is a template of whether or not a particular feature is present in an image
 	- Uses a convolution which basically repeatedly multiplies matrix elements and adds the results
 	- ![[Pasted image 20230411151123.png | 320 x 200]]
 	- If the convolved matrix someone resembles the convolution filter then it will have a large value, if not it will have a small value
@@ -142,7 +143,7 @@
 	- Low dimension and high dimension refer to the number of features  (or dimensions) in the dataset
 ![[Pasted image 20230411232226.png|300]]
 - *Embedding layers* are the hidden layers in an RNN that map information from a high dimensional space into a lower dimensional space
-- If the embedding layer is not trained and created during training, then a precomputed matrix is inserted in its place
+- Embedded layers are layers that are initialized with pre trained weights, fixing the weights during training so that the optimizer does not change them reduces overfitting and improves performance
 	- This is called *weight freezing*
 
 - *Long-term* RNNS refer to the ability of RNNs to capture long-term dependencies in sequential data
@@ -169,7 +170,7 @@
 		- This is a process called *flattening*
 
 - *flattening* is the process of converting a multidimensional input into a one dimensional input
-	- in RNNs a flatten layer is used between the convolutional layers and the dense layer (fully connected layer) to reduce feature maps to one vector
+	- in CNNs a flatten layer is used between the convolutional layers and the dense layer (fully connected layer) to reduce feature maps to one vector
 
 - The basic RNN covered in the notes covers the text sequence from left to right, there are RNNs that are *bidirectional* meaning that they cover the sequences in both directions
 
